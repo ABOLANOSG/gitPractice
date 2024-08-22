@@ -116,6 +116,8 @@ const expected = {
   
   const mostExpensive = () => {
     
+
+ console.log(mostExpensive);
   }
   
   filterByCategorie(products);
